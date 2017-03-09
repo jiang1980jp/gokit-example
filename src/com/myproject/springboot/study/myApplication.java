@@ -6,5 +6,7 @@ package com.myproject.springboot.study;
 public class myApplication {
     public void main(String args){
         System.out.print("testlog");
+        System.out.print("testlog1");
+        System.out.print("testlog2");
     }
 }
